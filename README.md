@@ -4,7 +4,9 @@ The University of the Sunshine Coast is hosting the 14th Australasian Conference
 
 On Saturday 28 July, delegates will have the opportunity to watch the Super Netball Round 13 match between the Sunshine Coast and the NSW Swifts at USC Stadium (https://www.usc.edu.au/explore/usc-news-exchange/news-archive/2018/july/maths-is-a-gamechanger-for-elite-sport).
 
-Anthony Bedford reports “The performance analysis process, including the half-time and post-match analysis, will be broadcast live to delegates allowing them to contribute and gain an insight into the practical aspects of match-day”.
+Anthony Bedford reports: 
+
+> The performance analysis process, including the half-time and post-match analysis, will be broadcast live to delegates allowing them to contribute and gain an insight into the practical aspects of match-day.
 
 I have been monitoring the 2018 Super Netball Season and am sharing my data as a contribution to what sounds like an exciting opportunity for conference delegates to be involved in real-time decision support.
 
