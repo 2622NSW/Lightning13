@@ -1,4 +1,4 @@
-##Sunshine Coast Lightning Round 13 2018
+## Sunshine Coast Lightning Round 13 2018
 
 The University of the Sunshine Coast is hosting the 14th Australasian Conference on Mathematics and Computers in Sport (https://www.anziam.org.au/The+14th+Australasian+Conference+on+Mathematics+and+Computers+in+Sport)
 
