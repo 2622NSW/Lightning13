@@ -11,5 +11,7 @@ I have been monitoring the 2018 Super Netball Season and am sharing my data as a
 I have three small .csv files to share.
 
 2018Season.csv has all the results from the season with the exception of two drawn games.
+
 Lightning12.csv has scores per quarter for the Lightning's 12 games played in 2018.
+
 Swifts12.csv has scores per quarter for the Swifts' 12 games played in 2018.
