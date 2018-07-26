@@ -1,0 +1,13 @@
+Round,Lightining,L1Q,L2Q,L3Q,L4Q,LTotal,LMargin,Opponent,O1Q,O2Q,O3Q,O4Q,OTotal,OMargin
+1,Lightning,12,13,13,13,51,-3,Giants,15,12,15,12,54,3
+2,Lightning,15,9,13,15,52,-3,Firebirds,11,20,8,16,55,3
+3,Lightning,15,14,15,11,55,-1,Fever,14,15,14,13,56,1
+4,Lightning,11,15,17,9,52,2,Magpies,10,13,12,15,50,-2
+5,Lightning,13,16,16,15,60,9,Thunderbirds,11,15,13,12,51,-9
+6,Lightning,15,15,18,16,64,8,Vixens,17,13,13,13,56,-8
+7,Lightning,9,18,16,13,56,-3,Swifts,19,12,14,14,59,3
+8,Lightning,12,13,16,12,53,0,Giants,17,12,11,13,53,0
+9,Lightning,14,13,16,15,58,1,Firebirds,15,14,13,15,57,-1
+10,Lightning,18,14,13,13,58,-1,Fever,14,16,17,12,59,1
+11,Lightning,17,18,12,11,58,2,Magpies,15,14,14,13,56,-2
+12,Lightning,20,20,18,17,75,31,Thunderbirds,11,9,12,12,44,-31
