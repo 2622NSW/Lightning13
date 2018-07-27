@@ -48,7 +48,7 @@ The two teams met in [Round 7](https://mc.championdata.com/super_netball/index.h
 
 - Lightning: 9, 18, 16, 13.
 
-This was the only quarter in this season's Lighning's games in which the team score single digit goals in a quarter.
+This was the only quarter in this season's Lighning's games in which the team scored single digit goals in a quarter.
 
 My naive priors for the Round 13 game, with regard to when goals will be scored by quarter are:
 
