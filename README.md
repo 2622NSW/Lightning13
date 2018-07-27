@@ -17,3 +17,43 @@ I have three small .csv files to share.
 - [**Lightning12.csv**](https://github.com/2622NSW/Lightning13/blob/master/Lightning12.csv) has scores per quarter for the Lightning's 12 games played in 2018.
 
 - [**Swifts12.csv**](https://github.com/2622NSW/Lightning13/blob/master/Swifts12.csv) has scores per quarter for the Swifts' 12 games played in 2018.
+
+## Some Additional Information
+
+I have some basic priors to add to the anticipation of the outcome of the game between the Lightning and Swifts.
+
+After 12 Rounds of the [2018 Season](https://supernetball.com.au/), the naive probabilities of teams winning (regardless of venue and opponent) are:
+
+- 0.63 if winning at the end of the first quarter
+
+- 0.76 if winning at the end of the second quarter
+
+- 0.87 if winning at the end of the third quarter
+
+Six of the 46 games with a winning outcome have been won by a team losing until the final quarter.
+
+Median Profiles
+
+The Lightning's median goal scoring profile this season by quarter is: 15, 15, 16, 13.
+
+The lightning's median goal conceding profile this season by quarter is: 15, 14, 13, 13.
+
+The Swifts' median goal scoring profile this season by quarter is: 14, 14, 14, 14.
+
+The Swifts' median goal conceding profile this season by quarter is: 15, 15, 15, 14.
+
+The two teams met in [Round 7](https://mc.championdata.com/super_netball/index.html?competitionid=10393&matchid=103930704) this season. The scores per quarter were:
+
+- Swifts: 19, 12, 14, 14.
+
+- Lightning: 9, 18, 16, 13.
+
+This was the only quarter in this season's Lighning's games in which the team score single digit goals in a quarter.
+
+My naive priors for the Round 13 game, with regard to when goals will be scored by quarter are:
+
+- Lightning: 0.27, 0.25, 0.27, 0.22
+
+- Swifts: 0.25, 0.25, 0.25, 0.25
+
+The Swifts' first quarter goals remained their best first quarter in 2018 until Round 11 when they scored 20.
