@@ -57,3 +57,29 @@ My naive priors for the Round 13 game, with regard to when goals will be scored 
 - Swifts: 0.25, 0.25, 0.25, 0.25
 
 The Swifts' first quarter goals remained their best first quarter in 2018 until Round 11 when they scored 20.
+
+My anticipated score: a Lightning win 60 v 54.
+
+## Postscript
+
+I wrote this [brief re-view](https://keithlyons.me/blog/2018/07/30/re-view-super-netball-2018-round-13-lightning-v-swifts/) of the game. In it, I included reference to four temporal patterns (T-patterns) in the game.
+
+The posteriors for my analysis are:
+
+Score: 61 v 51
+
+The Lightning's goal scoring profile by quarter was: 17, 14, 14, 16.
+
+The Lightning's goal conceding profile by quarter was: 13, 12, 12, 13.
+
+The Swifts' scoring profile by quarter was: 13, 12, 12, 13.
+
+The Swifts' goal conceding profile by quarter was: 17, 14, 14, 16.
+
+When goals were scored:
+
+- Lightning: 0.28, 0.23, 0.23, 0.26
+
+- Swifts: 0.25, 0.25, 0.24, 0.25
+
+
